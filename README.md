@@ -1,3 +1,3 @@
 # interactive-pricing-component
 
-Interactive pricing componnent challenge from frontendmentors added with a dark mode .
+Interactive pricing component challenge from frontendmentors made with react js and added with a dark mode.
